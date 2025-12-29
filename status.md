@@ -36,6 +36,10 @@
 - [ ] PR submission to Cedra Telegram
 - [ ] Submission to DoraHacks platform
 
+## Repository
+- **GitHub**: https://github.com/34r7h/CedraForge-Studio.git
+- **Status**: Pushed to main branch
+
 ## Next Steps
 
 1. Final testing of all features
